@@ -1,0 +1,79 @@
+[
+    {
+        "enrNo": "1563124",
+        "sName": "John Doe",
+        "cName": "Percussion",
+        "fees": "$120",
+        "enrDate": "12-08-223"
+    },
+    {
+        "enrNo": "1563125",
+        "sName": "Jane Smith",
+        "cName": "Guitar",
+        "fees": "$150",
+        "enrDate": "13-08-223"
+    },
+    {
+        "enrNo": "1563126",
+        "sName": "Alice Johnson",
+        "cName": "Piano",
+        "fees": "$130",
+        "enrDate": "14-08-223"
+    },
+    {
+        "enrNo": "1563127",
+        "sName": "Bob Brown",
+        "cName": "Violin",
+        "fees": "$140",
+        "enrDate": "15-08-223"
+    },
+    {
+        "enrNo": "1563128",
+        "sName": "Charlie Green",
+        "cName": "Flute",
+        "fees": "$110",
+        "enrDate": "16-08-223"
+    },
+    {
+        "enrNo": "1563129",
+        "sName": "Diana White",
+        "cName": "Clarinet",
+        "fees": "$120",
+        "enrDate": "17-08-223"
+    },
+    {
+        "enrNo": "1563130",
+        "sName": "Evan Black",
+        "cName": "Trumpet",
+        "fees": "$125",
+        "enrDate": "18-08-223"
+    },
+    {
+        "enrNo": "1563131",
+        "sName": "Fiona Grey",
+        "cName": "Saxophone",
+        "fees": "$135",
+        "enrDate": "19-08-223"
+    },
+    {
+        "enrNo": "1563132",
+        "sName": "George Yellow",
+        "cName": "Trombone",
+        "fees": "$145",
+        "enrDate": "20-08-223"
+    },
+    {
+        "enrNo": "1563133",
+        "sName": "Hannah Pink",
+        "cName": "Cello",
+        "fees": "$155",
+        "enrDate": "21-08-223"
+    },
+    {
+        "enrNo": "1563143",
+        "sName": "Rachel Emerald",
+        "cName": "Clarinet",
+        "fees": "$200",
+        "enrDate": "31-08-223"
+    }
+]

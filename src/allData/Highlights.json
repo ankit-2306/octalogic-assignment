@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": 164,
+        "description": "total number of students"
+    }
+    ,
+    {
+        "id": "2",
+        "title": "12",
+        "description": "total number of courses"
+    },
+    {
+        "id": "3",
+        "title": "$2000",
+        "description": "total amount to earned"
+    },
+    {
+        "id": "4",
+        "title": "Guitar",
+        "description": "best performing courses"
+    },
+    {
+        "id": "5",
+        "title": "Flute",
+        "description": "worst performing courses"
+    }
+]

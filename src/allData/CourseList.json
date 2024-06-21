@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Classical Guitar",
+        "description": "Guitar classes for beginners",
+        "instructor": "Ms. Jane Doe",
+        "instrument": "Guitar",
+        "dayOfWeek": "Wednesday",
+        "numberOfStudents": 26,
+        "price": 60,
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Jazz Piano",
+        "description": "Learn the basics of jazz piano",
+        "instructor": "Mr. John Smith",
+        "instrument": "Piano",
+        "dayOfWeek": "Monday",
+        "numberOfStudents": 15,
+        "price": 75,
+        "status": "Closed"
+    },
+    {
+        "id": 3,
+        "name": "Drum Lessons",
+        "description": "Drum classes for all levels",
+        "instructor": "Ms. Anna Brown",
+        "instrument": "Drums",
+        "dayOfWeek": "Tuesday",
+        "numberOfStudents": 10,
+        "price": 50,
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "name": "Violin Mastery",
+        "description": "Advanced violin techniques",
+        "instructor": "Mr. Tom White",
+        "instrument": "Violin",
+        "dayOfWeek": "Thursday",
+        "numberOfStudents": 8,
+        "price": 100,
+        "status": "Archived"
+    },
+    {
+        "id": 5,
+        "name": "Rock Guitar",
+        "description": "Rock guitar for intermediate players",
+        "instructor": "Ms. Lucy Green",
+        "instrument": "Guitar",
+        "dayOfWeek": "Friday",
+        "numberOfStudents": 20,
+        "price": 80,
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "name": "Blues Harmonica",
+        "description": "Blues harmonica essentials",
+        "instructor": "Mr. James Gray",
+        "instrument": "Harmonica",
+        "dayOfWeek": "Wednesday",
+        "numberOfStudents": 12,
+        "price": 40,
+        "status": "Closed"
+    },
+    {
+        "id": 7,
+        "name": "Pop Vocals",
+        "description": "Vocal training for pop singers",
+        "instructor": "Ms. Mary Wilson",
+        "instrument": "Voice",
+        "dayOfWeek": "Monday",
+        "numberOfStudents": 18,
+        "price": 70,
+        "status": "Active"
+    },
+    {
+        "id": 8,
+        "name": "Saxophone Jazz",
+        "description": "Jazz saxophone techniques",
+        "instructor": "Mr. Robert Johnson",
+        "instrument": "Saxophone",
+        "dayOfWeek": "Tuesday",
+        "numberOfStudents": 9,
+        "price": 90,
+        "status": "Archived"
+    },
+    {
+        "id": 9,
+        "name": "Classical Piano",
+        "description": "Classical piano for advanced players",
+        "instructor": "Ms. Emily Davis",
+        "instrument": "Piano",
+        "dayOfWeek": "Thursday",
+        "numberOfStudents": 7,
+        "price": 110,
+        "status": "Active"
+    },
+    {
+        "id": 10,
+        "name": "Electric Bass",
+        "description": "Electric bass for beginners",
+        "instructor": "Mr. Chris Evans",
+        "instrument": "Bass",
+        "dayOfWeek": "Friday",
+        "numberOfStudents": 13,
+        "price": 65,
+        "status": "Closed"
+    }
+]

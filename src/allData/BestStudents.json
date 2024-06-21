@@ -1,0 +1,82 @@
+[
+    {
+        "enrNo": "43422",
+        "fName": "John",
+        "lName": "Doe",
+        "courseNo": 3,
+        "fees": "$300",
+        "enrDate": "01-6-2023"
+    },
+    {
+        "enrNo": "43423",
+        "fName": "Jane",
+        "lName": "Smith",
+        "courseNo": 2,
+        "fees": "$250",
+        "enrDate": "02-6-2023"
+    },
+    {
+        "enrNo": "43424",
+        "fName": "Alice",
+        "lName": "Johnson",
+        "courseNo": 5,
+        "fees": "$400",
+        "enrDate": "03-6-2023"
+    },
+    {
+        "enrNo": "43425",
+        "fName": "Bob",
+        "lName": "Brown",
+        "courseNo": 1,
+        "fees": "$200",
+        "enrDate": "04-6-2023"
+    },
+    {
+        "enrNo": "43426",
+        "fName": "Charlie",
+        "lName": "Davis",
+        "courseNo": 4,
+        "fees": "$350",
+        "enrDate": "05-6-2023"
+    },
+    {
+        "enrNo": "43427",
+        "fName": "Eve",
+        "lName": "Miller",
+        "courseNo": 6,
+        "fees": "$450",
+        "enrDate": "06-6-2023"
+    },
+    {
+        "enrNo": "43428",
+        "fName": "Frank",
+        "lName": "Wilson",
+        "courseNo": 3,
+        "fees": "$300",
+        "enrDate": "07-6-2023"
+    },
+    {
+        "enrNo": "43429",
+        "fName": "Grace",
+        "lName": "Moore",
+        "courseNo": 2,
+        "fees": "$250",
+        "enrDate": "08-6-2023"
+    },
+    {
+        "enrNo": "43430",
+        "fName": "Hank",
+        "lName": "Taylor",
+        "courseNo": 5,
+        "fees": "$400",
+        "enrDate": "09-6-2023"
+    },
+    {
+        "enrNo": "43431",
+        "fName": "Ivy",
+        "lName": "Anderson",
+        "courseNo": 1,
+        "fees": "$200",
+        "enrDate": "10-6-2023"
+    }
+]
